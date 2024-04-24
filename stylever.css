@@ -1,0 +1,73 @@
+.main {
+    background-color: black;
+}
+
+.main h1 {
+  text-align:center;
+  font:bold;
+  color:red;
+  font-family: 'Hachi Maru Pop', cursive;
+}
+
+ .main h2 {
+    color: white;
+    font-family: 'Hachi Maru Pop', cursive;
+ }
+
+p {
+    color: white;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+h3 {
+    color: yellow;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+.no-close-button {
+    display: flex;
+    margin: 0 auto;
+    padding: 1em 2em;
+    width: 150px;
+    color: #2285b1;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Hachi Maru Pop', cursive;
+    border: 2px,solid,#2285b1
+}
+
+.no-close-button:hover {
+    color:red;
+    cursor: pointer;
+    background-color:#a0c4d3;
+}
+
+footer {
+    color: white;
+    text-align: right;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+sheet {
+  background-color:gray;
+}
+
+
+.pic {
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    align-items:flex-start;
+}
+
+
+.timer {
+    font-family: 'Yusei Magic', sans-serif;
+    color:orange;
+    font-size:20px;
+}
+
+
+
+

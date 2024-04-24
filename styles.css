@@ -1,0 +1,23 @@
+.all {
+  background-color:#C0D6DF;
+}
+
+.head1 {
+  color:red;
+  font-weight:bold;
+  cursor: pointer;  
+}
+
+.button_a {
+  color: #61bff9;
+  border: 1px solid #466995;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.button_a:hover {
+    box-shadow: 0 1px 0 rgba(136,136,136,1);
+    color:black;
+    
+}
+
